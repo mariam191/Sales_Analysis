@@ -1,4 +1,3 @@
-![image](https://github.com/mariam191/Sales_Analysis/assets/53847529/9d34215e-74ad-42a7-9364-14eb8eb1c4b4)# Sales_Analysis
 Here is my "Sales Analysis project" made by SQL, Power BI. 
 ---------------------------------------------------------------------------
 This project was done based on a Business case, its requirement was as following:
